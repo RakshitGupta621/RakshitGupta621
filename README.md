@@ -1,7 +1,8 @@
+<img align="right" width="400" src="https://github.com/RakshitGupta621/RakshitGupta621/blob/main/Cover.png">
 <h1 align="center">Hi 👋, I'm Rakshit Gupta</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on [GitHub Explorer](https://rakshitgupta-github-explorer.netlify.app/)
+
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
