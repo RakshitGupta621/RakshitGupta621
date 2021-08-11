@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Web Dev Projects**
+- 🙋‍♂️ I’m looking to collaborate on **Web Dev Projects**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rakshit-gupta-1347211b7/](https://www.linkedin.com/in/rakshit-gupta-1347211b7/)
 
