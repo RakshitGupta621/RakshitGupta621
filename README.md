@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Front End Developer**
 
 - 🙋‍♂️ I’m looking to collaborate on **Web Dev Projects**
 
