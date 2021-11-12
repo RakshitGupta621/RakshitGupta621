@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://github.com/RakshitGupta621/RakshitGupta621/blob/main/Cover.png">
+<img align="right" width="400" src="https://github.com/RakshitGupta621/RakshitGupta621/blob/main/code-coding.gif">
 <h1 align="center">Hi 👋, I'm Rakshit Gupta</h1>
 
 
