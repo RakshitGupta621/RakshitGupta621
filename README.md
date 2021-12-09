@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rakshit-gupta-1347211b7/](https://www.linkedin.com/in/rakshit-gupta-1347211b7/)
 
-- 💬 Ask me about **CSS, JavaScript, React**
+- 💬 Ask me about **CSS, JavaScript, React, Golang**
 
 - 📫 How to reach me **rakshitgupta3210@gmail.com**
 
