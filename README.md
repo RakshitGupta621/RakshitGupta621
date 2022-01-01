@@ -7,11 +7,7 @@
 
 - 🙋‍♂️ I’m looking to collaborate on **Web Dev Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rakshit-gupta-1347211b7/](https://www.linkedin.com/in/rakshit-gupta-1347211b7/)
-
-- 💬 Ask me about **CSS, JavaScript, React, Golang**
-
-- 📫 How to reach me **rakshitgupta3210@gmail.com**
+- 📫 How to reach me **rakshitgupta621@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
