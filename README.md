@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rakshit Gupta</h1>
 
 
-<h3 align="center">A passionate Front End Developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 
 - 🙋‍♂️ I’m looking to collaborate on **Web Dev Projects**
