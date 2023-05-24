@@ -5,6 +5,7 @@
 - 🙋‍♂️ I’m looking to collaborate on **Web Dev Projects**
 - 📫 How to reach me **rakshitgupta621@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshitgupta621&show_icons=true&locale=en&layout=compact" alt="rakshitgupta621" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshitgupta621&show_icons=true&locale=en&layout=compact" alt="rakshitgupta621" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshitgupta621&show_icons=true&locale=en" alt="rakshitgupta621" /></p>
+ -->
